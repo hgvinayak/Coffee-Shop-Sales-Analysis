@@ -1,5 +1,5 @@
 # Coffee-Shop-Sales-Analysis
-This repository will focus of coffee shop sales.
+This repository will focus on coffee shop sales.
 
 🌱Objective : To do the analysis to find the insights from the data to help the coffee shop team to increase the sales.
 
